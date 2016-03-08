@@ -63,7 +63,7 @@
 					SEEDBOX<br>
 					<img src="./assets/img/link.png">
 				</div>
-				<a href="https://domain.tld/rutorrent" TITLE="ruTorrent">
+				<a href="http://94.23.212.44:/rutorrent" TITLE="ruTorrent">
 					<span class="fa fa-download"></span>
 					<div id="lien">ruTorrent</div>
 				</a>
@@ -71,7 +71,7 @@
 					<span class="fa fa-play-circle-o"></span>
 					<div id="lien">Plex</div>
 				</a>
-				<a href="https://domain.tld/sickrage/" TITLE="Sickrage">
+				<a href="http://94.23.212.44:8081/" TITLE="Sickrage">
 					<span class="fa fa-television"></span>
 					<div id="lien"> Sickrage</div>
 				</a>
@@ -82,15 +82,15 @@
 					CLOUD<br>
 					<img src="./assets/img/link.png">
 				</div>
-				<a href="https://rss.domain.tld" TITLE="Selfoss">
+				<a href="#" TITLE="Selfoss">
 					<span class="fa fa-rss-square"></span>
 					<div id="lien">Selfoss</div>
 				</a>
-				<a href="https://webmail.domain.tld" TITLE="Rainloop">
+				<a href="#" TITLE="Rainloop">
 					<span class="fa fa-envelope"></span>
 					<div id="lien"> Rainloop</div>
 				</a>
-				<a href="https://cloud.domain.tld" TITLE="ownCloud">
+				<a href="#" TITLE="ownCloud">
 					<span class="fa fa-cloud"></span>
 					<div id="lien">ownCloud</div>
 				</a>
@@ -100,15 +100,15 @@
 			<br>
 
 			<div class="HOSTING">
-				<a href="https://img.domain.tld" TITLE="Lutim">
+				<a href="#" TITLE="Lutim">
 					<span class="fa fa-file-image-o"></span>
 					<div id="lien">Lutim</div>
 				</a>
-				<a href="https://file.domain.tld" TITLE="Lufi">
+				<a href="#" TITLE="Lufi">
 					<span class="fa fa-file-o"></span>
 					<div id="lien">Lufi</div>
 				</a>
-				<a href="https://paste.domain.tld" TITLE="ZeroBin">
+				<a href="https://paste.hydrog3n.fr" TITLE="ZeroBin">
 					<span class="fa fa-file-text-o"></span>
 					<div id="lien">Paste</div>
 				</a>
@@ -119,15 +119,15 @@
 			</div>
 
 			<div class="MISC">
-				<a href="https://domain.tld/app/glype" TITLE="Proxy">
+				<a href="#" TITLE="Proxy">
 					<span class="fa fa-globe"></span>
 					<div id="lien">Proxy</div>
 				</a>
-				<a href="https://codiad.domain.tld" TITLE="Codiad">
+				<a href="#" TITLE="Codiad">
 					<span class="fa fa-file-code-o"></span>
 					<div id="lien">Codiad</div>
 				</a>
-				<a href="https://shield.domain.tld" TITLE="LibreNMS">
+				<a href="#" TITLE="LibreNMS">
 					<span class="fa fa-bar-chart"></span>
 					<div id="lien">SHIELD</div>
 				</a>
