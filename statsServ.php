@@ -34,14 +34,15 @@ function getRamUsage() {
     $cachedRAM = $meminfo[Cached];
     $cachedRAM=ereg_replace("[^0-9]","",$cachedRAM);
     $free=$totalRAM-$cachedRAM;
-    $used = $totalRAM-$free;
+    $freeAv= $meminfo[MemAvailable];
+    $used = $totalRAM-$freeAv;
     $percent = ($used/$totalRAM)*100;
     return [$percent, round($percent,0)];
 }
 
 function getHDDUsage() {
     // HDD USAGE
-    $bytes = disk_free_space(".");
+    $bytes = disk_free_space("/home");
     $si_prefix = array( 'o', 'Ko', 'Mo', 'Go', 'To', 'EB', 'ZB', 'YB' );
     $base = 1024;
     $class = min((int)log($bytes , $base) , count($si_prefix) - 1);
