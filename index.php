@@ -100,9 +100,9 @@
 			<br>
 
 			<div class="HOSTING">
-				<a href="#" TITLE="Lutim">
-					<span class="fa fa-file-image-o"></span>
-					<div id="lien">Lutim</div>
+				<a href="http://94.23.212.44:5050/" TITLE="Couchpotato">
+					<span class="fa fa-television"></span>
+					<div id="lien"> CouchPotato</div>
 				</a>
 				<a href="#" TITLE="Lufi">
 					<span class="fa fa-file-o"></span>
