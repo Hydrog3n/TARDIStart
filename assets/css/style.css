@@ -66,6 +66,7 @@ a:hover, a:active {
 	border: 6px solid #FFF;
 	border-radius: 3px;
 	padding: 5px 5px;
+	line-height: 18px;
 	-moz-box-shadow: 0 -10px 10px -5px #000000;
 	-webkit-box-shadow: 0 -10px 10px -5px #000000;
 	-o-box-shadow: 0 -10px 10px -5px #000000;
