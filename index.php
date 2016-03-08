@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="robots" content="noindex">
-	<title>Start - T.A.R.D.I.S.</title>
+	<title>Start - RIDDLER</title>
 	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 	<link rel="icon" type="ico" href="./assets/img/tardis.ico">
 	<link rel="stylesheet" href="./assets/bower/font-awesome/css/font-awesome.min.css">
